@@ -1,4 +1,3 @@
-# CODE YOUR OWN WORDLE IN 60 SECONDS
 # import your modules
 import random
 import pygame
